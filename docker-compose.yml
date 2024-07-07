@@ -1,0 +1,7 @@
+services:
+  apple_server:
+    image: apple_parser:v01
+    container_name: apple_parser
+    volumes:
+    - /opt/python_projects/apple_parser
+    restart: unless-stopped
