@@ -51,10 +51,10 @@ def spec_function(name: str):
 
 name_dict = {'mac': 'macbook air, macbook pro, imac, mac mini, mac studio, mac pro',
              'ipad': 'ipad pro, ipad air, ipad 10.9, ipad mini, apple pencil, ipad keyboards',
-             'iphone': 'iphone 15 pro, iphone 15, iphone 14, iphone 13, iphone se',
-             'apple watch': 'apple watch series 9, apple watch ultra 2, apple watch se',
+             'iphone': 'iphone 16 pro, iphone 16, iphone 15, iphone 14, iphone se',
+             'apple watch': 'apple watch series 10, apple watch ultra 2, apple watch se',
              'vision pro': 'apple vision pro',
-             'airpods': 'airpods 2nd generation, airpods 3rd generation, airpods pro, airpods max',
+             'airpods': 'AirPods 4 Active Noise Cancellation, AirPods 4, airpods pro, airpods max',
              'other': 'apple tv 4k, homepod 2nd generation, homepod mini, airtag'
              }
 
